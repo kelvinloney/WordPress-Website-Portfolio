@@ -24,5 +24,5 @@
 
 ***
 
-![ValCap Music image](valcap-music/combo-valcap-music.jpg)
+![ValCap Music image](https://github.com/kelvinloney/WordPress-Website-Portyfolio/blob/main/valcap-music/combo-valcap-music.jpg)
 
