@@ -24,5 +24,5 @@
 
 ***
 
-![Dapper image](dapper/combo-dapper.jpg)
+![Dapper image](https://github.com/kelvinloney/WordPress-Website-Portfolio/blob/master/dapper/combo-dapper.jpg)
 
