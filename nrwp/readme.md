@@ -24,5 +24,5 @@
 
 ***
 
-![NRWP image](nrwp/combo-nrwp.jpg)
+![NRWP image](https://github.com/kelvinloney/WordPress-Website-Portfolio/blob/main/nrwp/combo-nrwp.jpg)
 
