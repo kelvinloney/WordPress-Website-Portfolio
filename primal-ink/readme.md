@@ -26,5 +26,5 @@
 
 ***
 
-![Primal Ink image](primal-ink/combo-primal-ink.jpg)
+![Primal Ink image](https://github.com/kelvinloney/WordPress-Website-Portfolio/blob/main/primal-ink/combo-primal-ink.jpg)
 
