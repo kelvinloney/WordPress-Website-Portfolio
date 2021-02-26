@@ -24,5 +24,5 @@
 
 ***
 
-![MyMusic Mobile image](mymusic/combo-mymusic.jpg)
+![MyMusic Mobile image](https://github.com/kelvinloney/WordPress-Website-Portfolio/blob/main/mymusic/combo-mymusic.jpg)
 
