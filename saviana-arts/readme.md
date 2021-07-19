@@ -24,5 +24,5 @@
 
 ***
 
-![Saviana Arts image](saviana-arts/combo-saviana-arts.jpg)
+![Saviana Arts image](/saviana-arts/combo-saviana-arts.jpg)
 
